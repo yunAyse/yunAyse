@@ -16,6 +16,6 @@ I'm Ayse, a 18-year-old web developer with a passion for coding. I see coding as
 You can find ways to reach me on [Linkedin](https://www.linkedin.com/in/ayse-onal-7b21622aa/) .
 
 ### ✨ Fun fact: 
-  * I'm in love with astronomy, 🌔   
-  * I'm a writer, ✍️  
+  * I'm in love with astronomy 🌔   
+  * I'm a writer ✍️  
   * Reading is my part time job 🔖  
