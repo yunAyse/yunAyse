@@ -18,4 +18,4 @@ You can find ways to reach me on [Linkedin](https://www.linkedin.com/in/ayse-ona
 ### ✨ Fun fact: 
   * I'm in love with astronomy 🌔   
   * I'm a writer ✍️  
-  * Reading is my part time job 🔖  
+  * Reading is my part time job 🔖
