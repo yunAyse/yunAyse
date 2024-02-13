@@ -2,7 +2,7 @@
 
 I'm Ayse, a 18-year-old web developer with a passion for coding. I see coding as a game with quests that constantly challenge and improve me for future endeavors. Currently a student, I'm excited to embark on projects that showcase my skills and creativity. 
 
-  * Check out my [portfolio] to learn more about my work.
+  * Check out my [portfolio](ayse-portfolio.projets.garage404.com) to learn more about my work.
 
 📍Based in France.
 ### 🔭 I’m currently working on ...
