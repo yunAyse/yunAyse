@@ -10,7 +10,7 @@ I'm Ayse, a 18-year-old web developer with a passion for coding. I see coding as
 ##### Currently, I'm working on two exciting projects. 🌠
   * Firstly, I'm building a documentary website focused on astronomy! Aimed at guiding enthusiasts to discover new facts and insights about the cosmos and heart warming stars. This marks my first major project, and I'm thrilled to bring it to life. 😸
 
-  * Additionally, I'm developing a storefront website for a commercial business, helping them introduce their products and business.
+  * Additionally, I'm developing a website for a commercial business, helping them introduce their products and business.
 
 ### 📮 To reach me ...
 You can find ways to reach me on [Linkedin](https://www.linkedin.com/in/ayse-onal-7b21622aa/) .
